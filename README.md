@@ -1,1 +1,1 @@
-# arpitanandy_Achievement 3 SQL project
+# ArpitaNandy_Achievement 3 SQL project
